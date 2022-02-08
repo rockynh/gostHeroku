@@ -1,1 +1,1 @@
-web: bin/gostHeroku -L=ss+mwss://$USERPASS@:$PORT
+web: bin/gostHeroku -L=$PROTOCOL://$USERPASS@:$PORT
