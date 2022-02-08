@@ -1,1 +1,1 @@
-web: gostHeroku -L=ss+mwss://chacha20:WangZheRY@:$PORT
+web:gostHeroku -L=ss+mwss://$USERPASS@:$PORT
