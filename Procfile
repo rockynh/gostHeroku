@@ -1,1 +1,1 @@
-web: bin/gostHeroku -L=ss+mwss://chacha20:WangZheRY@:443
+web: bin/gostHeroku -L=ss+mwss://$USERPASS@:$PORT
